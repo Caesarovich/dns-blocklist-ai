@@ -1,0 +1,14 @@
+||openai.com^
+||tabnine.com^
+||askcodi.com^
+||perplexity.ai^
+||you.com^
+||poe.com^
+||stablediffusionweb.com^
+||craiyon.com^
+||playform.io^
+||runwayml.com^
+||genmo.ai^
+||elevenlabs.io^
+||riffusion.com^
+||boomy.com^
