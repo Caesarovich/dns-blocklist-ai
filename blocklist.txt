@@ -12,3 +12,5 @@
 ||elevenlabs.io^
 ||riffusion.com^
 ||boomy.com^
+||bard.google.com^
+||spline.design^
