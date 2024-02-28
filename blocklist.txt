@@ -41,3 +41,4 @@
 ||writeme.ai^
 ||writerhand.com^
 ||you.com^
+||copilot.microsoft.com^
