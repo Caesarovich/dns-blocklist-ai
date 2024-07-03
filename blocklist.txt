@@ -42,3 +42,4 @@
 ||writerhand.com^
 ||you.com^
 ||copilot.microsoft.com^
+||sydney.bing.com^
