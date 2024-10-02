@@ -43,3 +43,4 @@
 ||you.com^
 ||copilot.microsoft.com^
 ||sydney.bing.com^
+||chat.mistral.ai^
