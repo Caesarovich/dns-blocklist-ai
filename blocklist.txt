@@ -15,6 +15,7 @@
 ||narraive.com^
 ||novelai.net^
 ||openai.com^
+||chatgpt.com^
 ||perchance.org^
 ||perplexity.ai^
 ||philosopherai.com^
