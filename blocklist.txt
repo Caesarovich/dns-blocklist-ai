@@ -45,3 +45,4 @@
 ||copilot.microsoft.com^
 ||sydney.bing.com^
 ||chat.mistral.ai^
+||duckduckgo.com^
