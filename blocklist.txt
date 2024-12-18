@@ -52,3 +52,6 @@
 ||chat.hix.ai^
 ||galaxy.ai^
 ||aichattings.com^
+||claude.ai^
+||monica.im^
+||perchance.org^
