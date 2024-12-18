@@ -46,4 +46,9 @@
 ||sydney.bing.com^
 ||chat.mistral.ai^
 ||duckduckgo.com^
-||copilot.microsoft.com^
+||deepai.org^
+||aichatting.net^
+||talkai.info^
+||chat.hix.ai^
+||galaxy.ai^
+||aichattings.com^
