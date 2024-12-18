@@ -46,3 +46,4 @@
 ||sydney.bing.com^
 ||chat.mistral.ai^
 ||duckduckgo.com^
+||copilot.microsoft.com^
