@@ -55,3 +55,14 @@
 ||claude.ai^
 ||monica.im^
 ||perchance.org^
+||character.ai^
+||talkie-ai.com^
+||talkto.ai^
+||talkto-api.pfpmaker.workers.dev
+||chaton.ai^
+||flatai.org^
+||writesonic.com^
+||llama2.ai^
+||pi.ai^
+||personal.ai^
+||you.com^
