@@ -74,4 +74,5 @@
 ||ahrefs.com^
 ||chatbotgpt.fr^
 ||chatbox.botnation.ai^
+||chatgptgratuit.org^
 
