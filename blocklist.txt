@@ -72,3 +72,6 @@
 ||app.brainchat.ai^
 ||search.brave.com^
 ||ahrefs.com^
+||chatbotgpt.fr^
+||chatbox.botnation.ai^
+
