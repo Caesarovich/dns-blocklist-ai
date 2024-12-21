@@ -75,4 +75,5 @@
 ||chatbotgpt.fr^
 ||chatbox.botnation.ai^
 ||chatgptgratuit.org^
+||chatgptfrance.net^
 
