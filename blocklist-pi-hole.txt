@@ -27,6 +27,9 @@ craiyon.com
 crushon.ai
 deepai.org
 deepl.com
+deepseek.com
+deepseekv3.net
+deepseek.me
 deepstory.ai
 docsbot.ai
 dreamily.ai
@@ -51,6 +54,7 @@ llama2.ai
 meta.ai
 minitoolai.com
 monica.im
+musely.ai
 narraive.com
 novelai.net
 o1gpt.org
