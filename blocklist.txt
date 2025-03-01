@@ -23,6 +23,7 @@
 ||chatopenai.de^
 ||claude.ai^
 ||copilot.microsoft.com^
+||copilot-proxy.githubusercontent.com
 ||craiyon.com^
 ||crushon.ai^
 ||deepai.org^
@@ -60,6 +61,7 @@
 ||novelai.net^
 ||o1gpt.org^
 ||openai.com^
+||origin-tracker.githubusercontent.com^
 ||perchance.org^
 ||perplexity.ai^
 ||personal.ai^
