@@ -39,6 +39,7 @@ flatai.org
 galaxy.ai
 gemini.google.com
 genmo.ai
+githubcopilot.com
 gpt3demo.com
 gpt4free.io
 gptchatly.com
