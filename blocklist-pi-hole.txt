@@ -63,6 +63,7 @@ novelai.net
 o1gpt.org
 openai.com
 origin-tracker.githubusercontent.com
+pentestgpt.ai
 perchance.org
 perplexity.ai
 personal.ai
