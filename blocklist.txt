@@ -22,6 +22,7 @@
 ||chaton.ai^
 ||chatopenai.de^
 ||claude.ai^
+||codegpt.co^
 ||copilot.microsoft.com^
 ||copilot-proxy.githubusercontent.com
 ||craiyon.com^
